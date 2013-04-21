@@ -2,3 +2,6 @@ django>=1.5
 south
 django-browserid
 PIL
+psycopg2
+gunicorn
+dj-database-url
